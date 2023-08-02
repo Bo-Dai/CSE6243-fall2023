@@ -1,0 +1,37 @@
+---
+layout: about
+permalink: /
+title: Advanced Topics in <b>Machine Learning</b>
+description: CSE 6243 • Fall 2023 • Georgia Institute of Technology
+logo: gatech-logo.png
+news: true
+---
+
+Advanced machine learning topics including graphical models, kernel methods, boosting, bagging, semi-supervised and active learning, and tensor approach to data analysis.
+
+These topics will be covered in **Four Modules**:
+- **Modula I: Background Knowledge** 
+    - Convex Optimization: Convex function, duality, stochastic gradient descent
+    - Sampling: MH, Gibbs, HMC
+    - PGM: directed/undirected graphical models
+
+
+- **Module II: Generative Model**
+    - VAE, Autoregressive Model, GAN, EBM (CD, Score Matching), Diffusion Models
+
+- **Module III: Differentiable Programming**
+    - Differentiable Bilevel Optimization, Differentiable Sampler, Differentiable Algorithm (Planning). 
+
+
+- **Module IV: Reinforcement Learning**
+    - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
+    - (Offline RL, Exploration)
+***
+
+- **Time:** Monday/Wednesday 5:00-06:15 pm
+- **Location:** [Scheller College of Business 203](https://goo.gl/maps/CsJAdL4adqsRFmLX6){:target="\_blank"}
+- **Discussion:** [Piazza](https://piazza.com/){:target="\_blank"}
+- **HW submission:** [Gradescope](https://www.gradescope.com/){:target="\_blank"}
+- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu*.
+
+***

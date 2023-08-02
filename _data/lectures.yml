@@ -1,0 +1,19 @@
+- date: 8/21
+  lecturer: Bo Dai
+  title: >
+    <strong>Course Overview</strong>
+  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
+  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
+  readings:
+    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
+    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
+  logistics:
+
+- title: "Modul2 I: Background Knowledge"
+
+- date: 8/23
+  lecturer: Bo Dai
+  title: >
+    <strong>Convex Optimization: convex preliminary</strong>
+
+
