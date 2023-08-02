@@ -6,11 +6,11 @@ description: CSE 6243 • Fall 2023 • Georgia Institute of Technology
 logo: gatech-logo.png
 news: true
 ---
+We are excited to welcome you to the Fall 2023 offering of CSE 6243!
 
 Advanced machine learning topics including graphical models, kernel methods, boosting, bagging, semi-supervised and active learning, and tensor approach to data analysis.
-
 These topics will be covered in **Four Modules**:
-- **Modula I: Background Knowledge** 
+- **Module I: Background Knowledge** 
     - Convex Optimization: Convex function, duality, stochastic gradient descent
     - Sampling: MH, Gibbs, HMC
     - PGM: directed/undirected graphical models
