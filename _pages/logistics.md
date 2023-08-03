@@ -28,7 +28,7 @@ This is a Graduate level course, and by the end of this class you should have a 
 The grading breakdown is as follows:
 
 - Participation (10%)
-- Homework Assignments (40%)
+- Scribe Duties (40%)
 - Final Project (50%)
 
 
@@ -42,11 +42,11 @@ There are several ways of earning participation credit, which will be capped at 
 - **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 0.5%.
 
 
-### Homework Assignments
+### Scribe Duties
 
-There will be 4 homework assignments over the course of the semester.
-These assignments may contain material that has been covered by published papers and webpages.
-It is a graduate class and we expect students to solve the problems themselves rather than search for answers.
+Each student is required to scribe for a certain number of lectures. Most lectures will have 3-4 students acting as scribes, and they should work as a team. During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. After the lecture, the scribe team is to convert their notes into a written format ([template]({{ "/assets/files/Lecture Note-template.zip" | relative_url }}){:target="\_blank"}). The notes must be detailed and thorough, and must be submitted through a pull request on GitHub within 1 week after the lecture. TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page.
+
+As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them. You will receive zero credit if you fail to submit your notes.
 
 **The students are required to typeset homework solutions using $$\LaTeX$$ and the provided template.**
 
@@ -91,7 +91,7 @@ Please see the [project page](https://sailinglab.github.io/pgm-spring-2019/proje
 
 To satisfy the auditing requirement, you must do *one* of the following:
 
-1. **Submit three homeworks** and receive at least 75% of the points on each one.
+1. **Submit notes** and receive at least 75% of the points on each one.
 2. **Do a class project** which must address a topic related to machine learning and must be something that you have started while taking this class (i.e. it can't be your previous work).
 You will need to submit a project proposal with everyone else, and present the project with everyone.
 However, you don't need to submit a milestone or final paper.

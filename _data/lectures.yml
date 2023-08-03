@@ -1,19 +1,278 @@
-- date: 8/21
+- date: 08/21
   lecturer: Bo Dai
   title: >
     <strong>Course Overview</strong>
-  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
+  slides: 
+  video: 
   readings:
     - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
     - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
 
-- title: "Modul2 I: Background Knowledge"
+- title: "Module I: Background Knowledge"
 
-- date: 8/23
+- date: 08/23
   lecturer: Bo Dai
   title: >
     <strong>Convex Optimization: convex preliminary</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 08/28
+  lecturer: Bo Dai
+  title: >
+    <strong>Convex Optimization: duality</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 08/30
+  lecturer: Bo Dai
+  title: >
+    <strong>Convex Optimization: gradient descent</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/04
+  lecturer: 
+  title: >
+    No Class (Labor Day)
+  slides: 
+  video: 
+  readings:
+
+- date: 09/06/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Sampling: basic sampling method</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/11/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Sampling: MH & Gibbs</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/13/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Sampling: Hamiltonian</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/18/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Probabilistic Graphical Models: DAG</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/20/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Probabilistic Graphical Models: MRF/EBM</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 09/25/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Neural Network Revisit</strong>
+  slides: 
+  video: 
+  readings:
+
+- title: "Module II: Deep Generative Models"
+
+- date: 09/27/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Autoregressive Model</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/02/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>VAE from dual view</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/04/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>EBM (CD, Score Matching)</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/09/2023
+  lecturer: 
+  title: >
+    No Class (Fall Break)
+  slides: 
+  video: 
+  readings:
+  logistics:
+
+- date: 10/11/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>EBM to GAN</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/16/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Diffusion Model</strong>
+  slides: 
+  video: 
+  readings:
+
+- title: "Module II: Differentiable Programming"
+
+- date: 10/18/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Differentiable Algorithm I: GAN to EBM with differentiable sampler</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/23/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Differentiable Algorithm II: dynamic programming/GNN</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/25/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Differentiable Algorithm III: differentiable optimizer</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 10/30/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Differentiable Algorithm IV: top-K/sorting layer</strong>
+  slides: 
+  video: 
+  readings:
+
+- title: "Module IV: Reinforcement Learning"
+
+- date: 11/01/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>MDP: Bellman Recursion</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/06/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>DP: Value and Policy Iteration</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/08/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>DP with function approximation</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/13/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>MDP: Linear Programming</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/15/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>LP with function approximation for offline setting</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/20/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Imitation Learning</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/22/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Policy Gradient I</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/27/2023
+  lecturer: Bo Dai
+  title: >
+    <strong>Policy Gradient II</strong>
+  slides: 
+  video: 
+  readings:
+
+- date: 11/29/2023
+  lecturer: 
+  title: >
+    Project Presentations
+  slides: 
+  video: 
+  readings:
+
+- date: 12/04/2023
+  lecturer: Bo Dai
+  title: >
+    Project Presentations
+  slides: 
+  video: 
+  readings:
+
+- date: 12/06/2023
+  lecturer: Bo Dai
+  title: >
+    Project Presentations
+  slides: 
+  video: 
+  readings:
+
+- date: 12/11/2023
+  lecturer: Bo Dai
+  title: >
+    Project Report Due
+  slides: 
+  video: 
+  readings:
+  logistics:
 
 
