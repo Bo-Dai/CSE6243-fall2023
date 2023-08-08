@@ -12,8 +12,8 @@ Advanced machine learning topics including graphical models, kernel methods, boo
 These topics will be covered in **Four Modules**:
 - **Module I: Background Knowledge** 
     - Convex Optimization: Convex function, duality, stochastic gradient descent
-    - Sampling: MH, Gibbs, HMC
     - PGM: directed/undirected graphical models
+    - Sampling: MH, Gibbs, HMC
 
 
 - **Module II: Generative Model**
