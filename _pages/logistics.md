@@ -14,7 +14,7 @@ title: Logistics
 The required textbook for this class is (note that the material of the class goes beyond this book):
 - Boyd & Vandenberghe. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/). Cambridge University Press. 2003
 - Bishop. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). Springer. 2006
-- Mohri， Rostamizadeh, & Talwalkar. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/). MIT Press. 2018
+- Mohri, Rostamizadeh, & Talwalkar. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/). MIT Press. 2018
 - Putman. [Markov Decision Processes: Discrete Stochastic Dynamic Programming](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887).  John Wiley & Sons, Inc. 1994
 - Amos. [Tutorial on amortized optimization](https://arxiv.org/pdf/2202.00665.pdf).
 
@@ -28,8 +28,8 @@ This is a Graduate level course, and by the end of this class you should have a 
 The grading breakdown is as follows:
 
 - Participation (10%)
-- Scribe Duties (40%)
-- Final Project (50%)
+- Scribe Duties (50%)
+- Final Presentation (40%)
 
 
 ***
