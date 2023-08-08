@@ -5,6 +5,11 @@ title: Course Project
 description: Guidelines and suggestions for course projects
 ---
 
+TBD
+
+<!---
+
+
 [TODO]REWRITE THIS PAGE
 
 Your class project is an opportunity for you to explore an interesting problem in the context of a real-world data sets.
@@ -311,3 +316,6 @@ The goal of AutoML is to make machine learning more accessible by automatically 
 7. [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/pdf/1805.09501.pdf){:target="\_blank"}.
 8. [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626){:target="\_blank"}.
 9. [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/abs/1706.04972){:target="\_blank"}.
+
+
+--> 
