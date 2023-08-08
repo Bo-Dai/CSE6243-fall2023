@@ -8,7 +8,7 @@ news: true
 ---
 We are excited to welcome you to the Fall 2023 offering of CSE 6243!
 
-Advanced machine learning topics including graphical models, kernel methods, boosting, bagging, semi-supervised and active learning, and tensor approach to data analysis.
+Advanced machine learning topics including graphical models, optimization, generative models, reinforcement learning, etc.
 These topics will be covered in **Four Modules**:
 - **Module I: Background Knowledge** 
     - Convex Optimization: Convex function, duality, stochastic gradient descent
