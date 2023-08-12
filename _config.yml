@@ -17,7 +17,7 @@ baseurl: /bo-dai/ # the subpath of your site, e.g. /blog/
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: Bo-Dai
-rss:  # notes rss
+# rss:  # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog
