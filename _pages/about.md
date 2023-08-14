@@ -32,6 +32,6 @@ These topics will be covered in **Four Modules**:
 - **Location:** [Scheller College of Business 203](https://goo.gl/maps/CsJAdL4adqsRFmLX6){:target="\_blank"}
 - **Discussion:** [Piazza](https://piazza.com/){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com/){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu*.
+- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *haotian.sun at gatech.edu*.
 
 ***
