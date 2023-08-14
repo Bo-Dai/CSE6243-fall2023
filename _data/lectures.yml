@@ -5,9 +5,6 @@
   slides: 
   video: 
   readings:
-    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
-    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
-  logistics:
 
 - title: "Module I: Background Knowledge"
 
@@ -18,6 +15,9 @@
   slides: 
   video: 
   readings:
+    - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>
+    - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
+
 
 - date: 08/28
   lecturer: Bo Dai
@@ -124,7 +124,6 @@
   slides: 
   video: 
   readings:
-  logistics:
 
 - date: 10/11/2023
   lecturer: Bo Dai
@@ -273,6 +272,5 @@
   slides: 
   video: 
   readings:
-  logistics:
 
 

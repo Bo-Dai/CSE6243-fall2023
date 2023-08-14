@@ -6,7 +6,7 @@ description: CSE 6243 • Fall 2023 • Georgia Institute of Technology
 logo: gatech-logo.png
 news: true
 ---
-We are excited to welcome you to the Fall 2023 offering of CSE 6243!
+Welcome to the Fall 2023 offering of CSE 6243!
 
 Advanced machine learning topics including graphical models, optimization, generative models, reinforcement learning, etc.
 These topics will be covered in **Four Modules**:
