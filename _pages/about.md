@@ -8,7 +8,7 @@ news: true
 ---
 Welcome to the Fall 2023 offering of CSE 6243!
 
-- **Prerequisite:**
+- **Prerequisite:** Graduate level Machine Learning, Probability and Statistics, Numerical Linear Algebra
 
 ***
 
