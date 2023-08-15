@@ -23,8 +23,10 @@ The required textbook for this class is (note that the material of the class goe
 
 ### Grading
 
-The class requirements include [TOFILL].
+<!---
+The class requirements include [TOFILL.
 This is a Graduate level course, and by the end of this class you should have a good understanding of the basic methodologies in [TOFILL].
+-->
 The grading breakdown is as follows:
 
 - Participation (10%)
@@ -37,9 +39,12 @@ The grading breakdown is as follows:
 ### Participation
 
 We appreciate everyone being actively involved in the class!
-There are several ways of earning participation credit, which will be capped at 4%:
+There are several ways of earning participation credit:
+<!---
 - **Piazza participation:** The top ~20 contributors to Piazza will get 3.5%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
-- **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 0.5%.
+-->
+- **In-Class quiz:** In several random classes, we will ask the audiences to complete some quiz. Completing all of them is worth 8%.
+- **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 2%.
 
 
 ### Scribe Duties
@@ -80,10 +85,12 @@ Please note that regrading of a homework may cause your grade to go either up or
 
 ### Final Project
 
-The class project will be carried out in groups of 3 or 4 people, and has four main parts: a proposal, a midway report, a final report, and a poster/oral presentation.
+The class project will be carried out in groups of 3 or 4 people, and has four main parts: a proposal, a midway report, a final report, and a oral presentation.
 The project is an integral part of this class, and is designed to be as similar as possible to researching and writing a conference-style paper.
 
+<!---
 Please see the [project page](https://sailinglab.github.io/pgm-spring-2019/project/) for more information about the final project.
+-->
 
 ***
 
