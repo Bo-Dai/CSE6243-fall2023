@@ -8,6 +8,14 @@ news: true
 ---
 Welcome to the Fall 2023 offering of CSE 6243!
 
+- **Time:** Monday/Wednesday 5:00-06:15 pm
+- **Location:** [Scheller College of Business 203](https://goo.gl/maps/CsJAdL4adqsRFmLX6){:target="\_blank"}
+- **Discussion:** [Piazza](https://piazza.com/){:target="\_blank"}
+- **HW submission:** [Gradescope](https://www.gradescope.com/){:target="\_blank"}
+- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *haotian.sun at gatech.edu*.
+- 
+***
+
 Advanced machine learning topics including graphical models, optimization, generative models, reinforcement learning, etc.
 These topics will be covered in **Four Modules**:
 - **Module I: Background Knowledge** 
@@ -27,11 +35,5 @@ These topics will be covered in **Four Modules**:
     - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
     - (Offline RL, Exploration)
 ***
-
-- **Time:** Monday/Wednesday 5:00-06:15 pm
-- **Location:** [Scheller College of Business 203](https://goo.gl/maps/CsJAdL4adqsRFmLX6){:target="\_blank"}
-- **Discussion:** [Piazza](https://piazza.com/){:target="\_blank"}
-- **HW submission:** [Gradescope](https://www.gradescope.com/){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on [Piazza](https://piazza.com/class/){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *haotian.sun at gatech.edu*.
 
 ***
