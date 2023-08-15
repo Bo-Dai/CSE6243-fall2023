@@ -23,7 +23,7 @@ The required textbook for this class is (note that the material of the class goe
 
 ### Grading
 
-<!---
+<!--
 The class requirements include [TOFILL.
 This is a Graduate level course, and by the end of this class you should have a good understanding of the basic methodologies in [TOFILL].
 -->
