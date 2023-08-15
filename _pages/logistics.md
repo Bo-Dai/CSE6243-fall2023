@@ -40,8 +40,7 @@ The grading breakdown is as follows:
 
 We appreciate everyone being actively involved in the class!
 There are several ways of earning participation credit:
-<!---
-- **Piazza participation:** The top ~20 contributors to Piazza will get 3.5%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
+<!---  - **Piazza participation:** The top ~20 contributors to Piazza will get 3.5%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
 -->
 - **In-Class quiz:** In several random classes, we will ask the audiences to complete some quiz. Completing all of them is worth 8%.
 - **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 2%.
