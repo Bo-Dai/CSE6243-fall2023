@@ -46,6 +46,9 @@ There are several ways of earning participation credit:
 - **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 2%.
 
 
+***
+
+
 ### Scribe Duties
 
 Each student is required to scribe for a certain number of lectures. Most lectures will have 3-4 students acting as scribes, and they should work as a team. During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. After the lecture, the scribe team is to convert their notes into a written format ([template]({{ "/assets/files/Lecture Note-template.zip" | relative_url }}){:target="\_blank"}). The notes must be detailed and thorough, and must be submitted through a pull request on GitHub within 1 week after the lecture. TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page.
@@ -63,7 +66,7 @@ You also must indicate on each homework with whom you have collaborated.
 
 #### Late Policy
 
-You will be allowed **6 total homework late days** without penalty for the entire semester.
+You will be allowed **4 total homework late days** without penalty for the entire semester.
 You may be late by up to 6 days on any homework assignment.
 Once those days are used, you will be penalized according to the following policy:
 
