@@ -5,23 +5,20 @@ title: Course Project
 description: Guidelines and suggestions for course projects
 ---
 
-TBD
 
-<!---
+Your class project is an opportunity for you to develop new methods for interesting problems in the context of a real-world data sets.
+You can reproduce one method in the course or your own ideas. 
+Instructor and TA will consult with you, but of course the final responsibility to define and execute an interesting piece of work is yours. 
 
-
-[TODO]REWRITE THIS PAGE
-
-Your class project is an opportunity for you to explore an interesting problem in the context of a real-world data sets.
-Projects should be done in teams of three students.
-Each project will be assigned a TA as a project consultant/mentor; instructors and TAs will consult with you on your ideas, but of course the final responsibility to define and execute an interesting piece of work is yours. Your project will be worth 46% of your final class grade, and will have 4 deliverables:
+Projects should be done in teams of three to four students.
+Your project will be worth 40% of your final class grade, and will have 4 deliverables:
 
 1. **Proposal** : 2 pages excluding references (10%)
-2. **Midway Report** : 5 pages excluding references (20%)
-3. **Presentation** : poster presentation (20%)
-4. **Final Report** : 8 pages excluding references (50%)
+2. **Midway Report** : 3 pages excluding references (20%)
+3. **Presentation** : oral presentation (20%)
+4. **Final Report** : 5 pages excluding references (50%)
 
-All write-ups should use the [ICML style](https://media.neurips.cc/Conferences/ICML2019/Styles/icml2019_style.zip).
+All write-ups should use the [NeurIPS style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
 
 ***
 
@@ -58,12 +55,15 @@ The grading breakdown for the proposal is as follows:
 - 10% for plan of activities
 - 10% for quality of writing
 
+<!---
 The project proposal will be due at **11:59 PM on Friday, February 22th**, and should be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+-->
+
 
 ### Midway Report
 
 The midway report will serve as a check-point at the halfway mark of your project.
-It should be about **5 pages long**, and should be formatted like a conference paper, with the following sections: introduction, background & related work, methods, experiments, conclusion.
+It should be about **3 pages long**, and should be formatted like a conference paper, with the following sections: introduction, background & related work, methods, experiments, conclusion.
 The introduction and related work sections should be in their final form; the section on the proposed methods should be almost finished; the sections on the experiments and conclusions will have the results you have obtained, perhaps with place-holders for the results you plan/hope to obtain.
 
 The grading breakdown for the midway report is as follows:
@@ -74,11 +74,13 @@ The grading breakdown for the midway report is as follows:
 - 10% for data collection and preliminary results
 - 10% for quality of writing
 
+<!---
 The project midway report will be due at **11:59 PM on Friday, March 29th**, and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+-->
 
 ### Final Report
 
-Your final report is expected to be **8 pages excluding references**, in accordance with the length requirements for an ICML paper. It should have roughly the following format:
+Your final report is expected to be **5 pages excluding references**. It should have roughly the following format:
 
 - Introduction: problem definition and motivation
 - Background & Related Work: background info and literature survey
@@ -99,15 +101,16 @@ The grading breakdown for the final report is as follows:
 - 10% for empirical and theoretical analysis of results and methods
 - 20% for quality of writing (clarity, organization, flow, etc.)
 
+<!---
 The project final report will be due at **11:59 PM on Friday, May 10th** (tentative), and must be submitted via [Gradescope](https://www.gradescope.com/courses/36025).
+-->
 
 ### Presentation
 
-All project teams will present their work at the end of the semester.
-We will have a 2-3-hour long poster session held in NSH atrium on April 30.
-Each team should prepare a poster (similar in style to a conference poster) and present it during the allocated time.
+All project teams will present their work at the end of the semester. Each team should present it during the allocated time.
 If applicable, live demonstrations of your software are highly encouraged.
 
+<!---
 ## Project Suggestions
 
 If you are interested in a particular project, please contact the respective *contact person* to get further ideas or details.
