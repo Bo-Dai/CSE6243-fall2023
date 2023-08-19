@@ -5,8 +5,9 @@ title: Course Project
 description: Guidelines and suggestions for course projects
 ---
 
+Coming soon.
 
-Your class project is an opportunity for you to develop new methods for interesting problems in the context of a real-world data sets.
+<!-- Your class project is an opportunity for you to develop new methods for interesting problems in the context of a real-world data sets.
 You can reproduce one method in the course or your own ideas. 
 Instructor and TA will consult with you, but of course the final responsibility to define and execute an interesting piece of work is yours. 
 
@@ -108,7 +109,7 @@ The project final report will be due at **11:59 PM on Friday, May 10th** (tentat
 ### Presentation
 
 All project teams will present their work at the end of the semester. Each team should present it during the allocated time.
-If applicable, live demonstrations of your software are highly encouraged.
+If applicable, live demonstrations of your software are highly encouraged. -->
 
 <!---
 ## Project Suggestions

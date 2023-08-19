@@ -64,7 +64,7 @@ However, it is acceptable to collaborate when figuring out answers and to help e
 We will be assuming that, as participants in a graduate course, you will be taking the responsibility to make sure you personally understand the solution arising from such collaboration.
 You also must indicate on each homework with whom you have collaborated.
 
-#### Late Policy
+<!-- #### Late Policy
 
 You will be allowed **4 total homework late days** without penalty for the entire semester.
 You may be late by up to 6 days on any homework assignment.
@@ -76,7 +76,7 @@ Once those days are used, you will be penalized according to the following polic
 - The homework is worth zero credit 48 hours after exceeding the late day limit.
 
 You must turn in at least 3 of the 4 assignments, even if for zero credit, in order to pass the course.
-Please upload your late submissions to [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}.
+Please upload your late submissions to [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}. -->
 
 #### Regrade Policy
 
