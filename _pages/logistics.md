@@ -95,6 +95,7 @@ The project is an integral part of this class, and is designed to be as similar 
 Please see the [project page](https://sailinglab.github.io/pgm-spring-2019/project/) for more information about the final project.
 -->
 
+<!---
 ***
 
 ### Auditing
@@ -108,4 +109,5 @@ However, you don't need to submit a milestone or final paper.
 You must get at least 80% on the final presentation part of the project.
 
 *If you plan to audit the class, please notify instructors that you are auditing and specify which requirement you plan to fulfill.*
+-->
 
