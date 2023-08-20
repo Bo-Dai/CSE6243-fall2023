@@ -247,7 +247,7 @@
   readings:
 
 - date: 12/04
-  lecturer: Bo Dai
+  lecturer: 
   title: >
     Project Presentations
   slides: 
@@ -255,7 +255,7 @@
   readings:
 
 - date: 12/06
-  lecturer: Bo Dai
+  lecturer:
   title: >
     Project Presentations
   slides: 
@@ -263,7 +263,7 @@
   readings:
 
 - date: 12/11
-  lecturer: Bo Dai
+  lecturer: 
   title: >
     Project Report Due
   slides: 
