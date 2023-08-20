@@ -31,7 +31,7 @@ The grading breakdown is as follows:
 
 - Participation (20%)
 - Scribe Duties (40%)
-- Final Presentation (40%)
+- Project (40%)
 
 
 ***
