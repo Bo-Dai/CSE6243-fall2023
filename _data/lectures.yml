@@ -41,7 +41,7 @@
   video: 
   readings:
 
-- date: 09/06/2023
+- date: 09/06
   lecturer: Bo Dai
   title: >
     <strong>Sampling: basic sampling method</strong>
@@ -49,7 +49,7 @@
   video: 
   readings:
 
-- date: 09/11/2023
+- date: 09/11
   lecturer: Bo Dai
   title: >
     <strong>Sampling: MH & Gibbs</strong>
@@ -57,7 +57,7 @@
   video: 
   readings:
 
-- date: 09/13/2023
+- date: 09/13
   lecturer: Bo Dai
   title: >
     <strong>Sampling: Hamiltonian</strong>
@@ -65,7 +65,7 @@
   video: 
   readings:
 
-- date: 09/18/2023
+- date: 09/18
   lecturer: Bo Dai
   title: >
     <strong>Probabilistic Graphical Models: DAG</strong>
@@ -73,7 +73,7 @@
   video: 
   readings:
 
-- date: 09/20/2023
+- date: 09/20
   lecturer: Bo Dai
   title: >
     <strong>Probabilistic Graphical Models: MRF/EBM</strong>
@@ -81,7 +81,7 @@
   video: 
   readings:
 
-- date: 09/25/2023
+- date: 09/25
   lecturer: Bo Dai
   title: >
     <strong>Neural Network Revisit</strong>
@@ -91,7 +91,7 @@
 
 - title: "Module II: Deep Generative Models"
 
-- date: 09/27/2023
+- date: 09/27
   lecturer: Bo Dai
   title: >
     <strong>Autoregressive Model</strong>
@@ -99,7 +99,7 @@
   video: 
   readings:
 
-- date: 10/02/2023
+- date: 10/02
   lecturer: Bo Dai
   title: >
     <strong>VAE from dual view</strong>
@@ -107,7 +107,7 @@
   video: 
   readings:
 
-- date: 10/04/2023
+- date: 10/04
   lecturer: Bo Dai
   title: >
     <strong>EBM (CD, Score Matching)</strong>
@@ -115,7 +115,7 @@
   video: 
   readings:
 
-- date: 10/09/2023
+- date: 10/09
   lecturer: 
   title: >
     No Class (Fall Break)
@@ -123,7 +123,7 @@
   video: 
   readings:
 
-- date: 10/11/2023
+- date: 10/11
   lecturer: Bo Dai
   title: >
     <strong>EBM to GAN</strong>
@@ -131,7 +131,7 @@
   video: 
   readings:
 
-- date: 10/16/2023
+- date: 10/16
   lecturer: Bo Dai
   title: >
     <strong>Diffusion Model</strong>
@@ -141,7 +141,7 @@
 
 - title: "Module II: Differentiable Programming"
 
-- date: 10/18/2023
+- date: 10/18
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm I: GAN to EBM with differentiable sampler</strong>
@@ -150,7 +150,7 @@
   readings:
     - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>
   
-- date: 10/23/2023
+- date: 10/23
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm II: dynamic programming/GNN</strong>
@@ -160,7 +160,7 @@
     - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
     - Dai et al, 2016, <a href="http://proceedings.mlr.press/v48/daib16.pdf" target="_blank">Discriminative Embeddings of Latent Variable Models for Structured Data</a>
 
-- date: 10/25/2023
+- date: 10/25
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm III: differentiable optimizer</strong>
@@ -169,7 +169,7 @@
   readings:
     - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
 
-- date: 10/30/2023
+- date: 10/30
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm IV: top-K/sorting layer</strong>
@@ -180,7 +180,7 @@
 
 - title: "Module IV: Reinforcement Learning"
 
-- date: 11/01/2023
+- date: 11/01
   lecturer: Bo Dai
   title: >
     <strong>MDP: Bellman Recursion</strong>
@@ -188,7 +188,7 @@
   video: 
   readings:
 
-- date: 11/06/2023
+- date: 11/06
   lecturer: Bo Dai
   title: >
     <strong>DP: Value and Policy Iteration</strong>
@@ -196,7 +196,7 @@
   video: 
   readings:
 
-- date: 11/08/2023
+- date: 11/08
   lecturer: Bo Dai
   title: >
     <strong>DP with function approximation</strong>
@@ -204,7 +204,7 @@
   video: 
   readings:
 
-- date: 11/13/2023
+- date: 11/13
   lecturer: Bo Dai
   title: >
     <strong>MDP: Linear Programming</strong>
@@ -212,7 +212,7 @@
   video: 
   readings:
 
-- date: 11/15/2023
+- date: 11/15
   lecturer: Bo Dai
   title: >
     <strong>LP with function approximation for offline setting</strong>
@@ -220,7 +220,7 @@
   video: 
   readings:
 
-- date: 11/20/2023
+- date: 11/20
   lecturer: Bo Dai
   title: >
     <strong>Imitation Learning</strong>
@@ -228,7 +228,7 @@
   video: 
   readings:
 
-- date: 11/22/2023
+- date: 11/22
   lecturer: Bo Dai
   title: >
     <strong>Policy Gradient I</strong>
@@ -236,7 +236,7 @@
   video: 
   readings:
 
-- date: 11/27/2023
+- date: 11/27
   lecturer: Bo Dai
   title: >
     <strong>Policy Gradient II</strong>
@@ -244,7 +244,7 @@
   video: 
   readings:
 
-- date: 11/29/2023
+- date: 11/29
   lecturer: 
   title: >
     Project Presentations
@@ -252,7 +252,7 @@
   video: 
   readings:
 
-- date: 12/04/2023
+- date: 12/04
   lecturer: Bo Dai
   title: >
     Project Presentations
@@ -260,7 +260,7 @@
   video: 
   readings:
 
-- date: 12/06/2023
+- date: 12/06
   lecturer: Bo Dai
   title: >
     Project Presentations
@@ -268,7 +268,7 @@
   video: 
   readings:
 
-- date: 12/11/2023
+- date: 12/11
   lecturer: Bo Dai
   title: >
     Project Report Due
