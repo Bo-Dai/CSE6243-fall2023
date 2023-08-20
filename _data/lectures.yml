@@ -158,6 +158,7 @@
   video: 
   readings:
     - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
+    - Dai et al, 2016, <a href="http://proceedings.mlr.press/v48/daib16.pdf" target="_blank">Discriminative Embeddings of Latent Variable Models for Structured Data</a>
 
 - date: 10/25/2023
   lecturer: Bo Dai
