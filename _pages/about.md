@@ -8,11 +8,13 @@ news: true
 ---
 Welcome to the Fall 2023 offering of CSE 6243!
 
-- **Prerequisite:** Graduate level Machine Learning, Probability and Statistics, Numerical Linear Algebra
+**Prerequisite:** Graduate level Machine Learning, Probability and Statistics, Numerical Linear Algebra
+
+This class is best for you if you have machine learning at the **CORE** of your studies/research, and want to understand the fundamentals.
 
 ***
 
-Advanced machine learning topics including graphical models, optimization, generative models, reinforcement learning, etc.
+Advanced Machine Learning is a graduate level course introducing the modern machine learning techniques, including graphical models, optimization, generative models, reinforcement learning, etc.
 These topics will be covered in **Four Modules**:
 
 - **Module I: Background Knowledge** 
@@ -29,6 +31,8 @@ These topics will be covered in **Four Modules**:
 - **Module IV: Reinforcement Learning**
   - MDP, Dynamic Programming, Policy-gradient, LP-based algorithm 
   - (Offline RL, Exploration)
+
+<ins>**The course will be very math and theory heavy.**</ins> The students are expected to develop the skill of design computationally and statistically efficient machine learning algorithms for practical problems.
 
 ***
 
