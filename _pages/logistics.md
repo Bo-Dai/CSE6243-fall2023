@@ -56,6 +56,8 @@ Each student is required to scribe for a certain number of lectures. Most lectur
 
 As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them. You will receive zero credit if you fail to submit your notes.
 
+Please pick up a slot on [this spreadsheet](https://docs.google.com/spreadsheets/d/1TTlvcGLdT3sJgRes-8mI1eD_k9EdnSPVISIP59FGVvU/edit?usp=sharing){:target="\_blank"}.
+
 **The students are required to typeset homework solutions using $$LaTeX$$ and the provided template.**
 
 <!-- #### Collaboration Policy
