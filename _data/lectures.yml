@@ -16,8 +16,6 @@
   video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>
-    - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
-
 
 - date: 08/28
   lecturer: Bo Dai
@@ -150,7 +148,8 @@
   slides: 
   video: 
   readings:
-
+    - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper/2020/file/ec24a54d62ce57ba93a531b460fa8d18-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>
+  
 - date: 10/23/2023
   lecturer: Bo Dai
   title: >
@@ -158,6 +157,7 @@
   slides: 
   video: 
   readings:
+    - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
 
 - date: 10/25/2023
   lecturer: Bo Dai
@@ -166,6 +166,7 @@
   slides: 
   video: 
   readings:
+    - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
 
 - date: 10/30/2023
   lecturer: Bo Dai
@@ -174,6 +175,7 @@
   slides: 
   video: 
   readings:
+   - Xie et al, <a href="https://proceedings.neurips.cc/paper/2020/file/ec24a54d62ce57ba93a531b460fa8d18-Paper.pdf" target="_blank">Differentiable Top-k with Optimal Transport</a> 
 
 - title: "Module IV: Reinforcement Learning"
 
