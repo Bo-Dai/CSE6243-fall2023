@@ -35,9 +35,9 @@ title: Schedule (Tentative)
         <br />
         [
             {% if lecture.slides %}
-            | <a href="{{ lecture.slides }}" target="_blank">slides</a>
+            <a href="{{ lecture.slides }}" target="_blank">slides</a>
             {% else %}
-            | slides
+            slides
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
