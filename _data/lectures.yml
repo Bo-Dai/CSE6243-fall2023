@@ -2,7 +2,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Course Overview</strong>
-  slides: [test]({{ "/assets/files/Lecture Note-template.zip" | relative_url }}){:target="\_blank"}
+  slides: "/assets/files/Lecture Note-template.zip"
   # video: 
   readings:
 
