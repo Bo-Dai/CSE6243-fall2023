@@ -11,7 +11,7 @@
 - date: 08/23
   lecturer: Bo Dai
   title: >
-    <strong>Convex Optimization: convex preliminary</strong>
+    <strong>Optimization: convex preliminary</strong>
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
   # video: 
   readings:
@@ -20,7 +20,7 @@
 - date: 08/28
   lecturer: Bo Dai
   title: >
-    <strong>Convex Optimization: duality</strong>
+    <strong>Optimization: duality</strong>
   slides: 
   # video: 
   readings:
@@ -28,7 +28,7 @@
 - date: 08/30
   lecturer: Bo Dai
   title: >
-    <strong>Convex Optimization: gradient descent</strong>
+    <strong>Optimization: gradient descent</strong>
   slides: 
   # video: 
   readings:
