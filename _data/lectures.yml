@@ -15,7 +15,7 @@
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
   # video: 
   readings:
-    - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>
+    - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 1
 
 - date: 08/28
   lecturer: Bo Dai
@@ -24,14 +24,16 @@
   slides: 
   # video: 
   readings:
+    - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 2-3
 
 - date: 08/30
   lecturer: Bo Dai
   title: >
-    <strong>Optimization: gradient descent</strong>
+    <strong>Optimization: duality and gradient descent</strong>
   slides: 
   # video: 
   readings:
+    - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 5
 
 - date: 09/04
   lecturer: 
