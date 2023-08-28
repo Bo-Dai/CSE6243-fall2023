@@ -29,7 +29,7 @@
 - date: 08/30
   lecturer: Bo Dai
   title: >
-    <strong>Optimization: duality and gradient descent</strong>
+    <strong>Optimization: conjugate and gradient descent</strong>
   slides: 
   # video: 
   readings:
