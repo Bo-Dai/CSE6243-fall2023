@@ -12,7 +12,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex preliminary</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
+  slides: 
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 1
@@ -21,7 +21,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex set and function</strong>
-  slides: 
+  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 2-3
