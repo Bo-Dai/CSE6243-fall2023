@@ -14,6 +14,7 @@
     <strong>Optimization: convex preliminary</strong>
   slides: 
   # video: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec2.pdf"
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 1
 
