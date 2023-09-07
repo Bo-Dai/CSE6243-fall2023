@@ -52,13 +52,13 @@ There are several ways of earning participation credit:
 
 ### Scribe Duties
 
-Each student is required to scribe for a certain number of lectures. Most lectures will have 2 students acting as scribes, and they should work as a team. During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. After the lecture, the scribe team is to convert their notes into a written format. You can download the scribing template [here]({{ "/assets/files/Lecture Note-template.zip" | relative_url }}){:target="\_blank"} or on [overleaf]({{ "https://www.overleaf.com/read/gtxbdvxmnqcy" | relative_url }}){:target="\_blank"}. The notes must be detailed and thorough, and must be submitted through a pull request on GitHub within 1 week after the lecture. TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page.
+Each student is required to scribe for a certain number of lectures. Most lectures will have 2 students acting as scribes, and they should work as a team. During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. After the lecture, the scribe team is to convert their notes into a written format. You can download the scribing template [here]({{ "/assets/files/Lecture Note-template.zip" | relative_url }}){:target="\_blank"} or on [overleaf]({{ "https://www.overleaf.com/read/gtxbdvxmnqcy" | relative_url }}){:target="\_blank"}. The notes must be detailed and thorough, and must be submitted on Canvas within 1 week after the lecture. TAs will audit and review the submitted notes, request changes if necessary, and will eventually approve the notes and add them to the course page. 
 
-As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them. You will receive zero credit if you fail to submit your notes.
+As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. If your notes have errors or are otherwise not up to standard, we will inform you and give you a chance to correct them. You will receive zero credit if you fail to submit your notes. 
 
-Please pick up a slot on [this spreadsheet](https://docs.google.com/spreadsheets/d/1TTlvcGLdT3sJgRes-8mI1eD_k9EdnSPVISIP59FGVvU/edit?usp=sharing){:target="\_blank"}.
+The scribing assignment is on [this spreadsheet](https://docs.google.com/spreadsheets/d/1TTlvcGLdT3sJgRes-8mI1eD_k9EdnSPVISIP59FGVvU/edit?usp=sharing){:target="\_blank"}.
 
-**The students are required to typeset homework solutions using $$LaTeX$$ and the provided template.**
+**The students are required to typeset homework solutions using $\LaTeX$$ and the provided template. We recommend referring to [the LaTex wikipedia](https://en.wikibooks.org/wiki/LaTeX/Mathematics/){:target="\_blank"} to edit the notes.** 
 
 <!-- #### Collaboration Policy
 
