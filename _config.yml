@@ -41,7 +41,7 @@ github_username: Bo-Dai
 # # Optional features
 # show_social_icons:  true
 # enable_anchorjs:    true
-# enable_latexjs:     true
+enable_latexjs:     true
 # enable_katex:       true
 
 # -----------------------------------------------------------------------------
