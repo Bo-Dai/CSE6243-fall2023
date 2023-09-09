@@ -23,6 +23,7 @@
   title: >
     <strong>Optimization: convex set and function</strong>
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec3.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 2-3
@@ -32,6 +33,7 @@
   title: >
     <strong>Optimization: gradient descent</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec4.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 5

@@ -33,24 +33,25 @@ title: Schedule (Tentative)
         <br />
         {{ lecture.title }}
         <br />
+        {% if lecture.slides or lecture.video or lecture.notes%}
         [
             {% if lecture.slides %}
             <a href="{{ lecture.slides }}" target="_blank">slides</a>
-            {% else %}
-            slides
             {% endif %}
-            {% if lecture.annotated %}
-              (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
+            {% if lecture.slides and lecture.notes %}
+              |  
+            {% endif %}
+            {% if lecture.notes %}
+            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
+            {% endif %}
+            {% if lecture.video and lecture.notes%}
+              |  
             {% endif %}
             {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% endif %}
-            {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
-            {% else %}
-            | notes
-            {% endif %}
         ]
+        {% endif %}
     </td>
     <td>
         {% if lecture.readings %}
