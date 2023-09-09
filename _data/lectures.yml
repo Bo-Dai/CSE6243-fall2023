@@ -12,7 +12,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex preliminary</strong>
-  slides: 
+  slides:
   # video: 
   notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec2.pdf"
   readings:
@@ -32,7 +32,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Optimization: gradient descent</strong>
-  slides: 
+  slides:
   notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec4.pdf"
   # video: 
   readings:
@@ -47,7 +47,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Sampling: basic sampling method</strong>
-  slides: 
+  slides:
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
@@ -56,7 +56,7 @@
   lecturer: Bo Dai
   title: >
     <strong>Sampling: MH & Gibbs</strong>
-  slides: 
+  slides:
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11

@@ -42,13 +42,13 @@ title: Schedule (Tentative)
               |  
             {% endif %}
             {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
+            <a href="{{ lecture.notes }}" target="_blank">notes</a>
             {% endif %}
             {% if lecture.video and lecture.notes%}
               |  
             {% endif %}
             {% if lecture.video %}
-            | <a href="{{ lecture.video }}" target="_blank">video</a>
+            <a href="{{ lecture.video }}" target="_blank">video</a>
             {% endif %}
         ]
         {% endif %}
