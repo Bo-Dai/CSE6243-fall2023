@@ -55,7 +55,7 @@
 - date: 09/11
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: MH & Gibbs</strong>
+    <strong>Sampling: Markov Chain Monte Carlo</strong>
   slides:
   # video: 
   readings:
@@ -64,7 +64,7 @@
 - date: 09/13
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: Hamiltonian</strong>
+    <strong>Sampling: Gibbs & Hamiltonian</strong>
   slides: 
   # video: 
   readings:
