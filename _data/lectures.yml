@@ -69,6 +69,8 @@
   # video: 
   readings:
     - Neal, <a href="https://www.mcmchandbook.net/HandbookChapter5.pdf" target="_blank">MCMC Using Hamiltonian Dynamics</a>
+    - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
+
 - date: 09/18
   lecturer: Bo Dai
   title: >
