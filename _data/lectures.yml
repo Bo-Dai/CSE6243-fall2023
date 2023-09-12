@@ -55,7 +55,7 @@
 - date: 09/11
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: Markov Chain Monte Carlo</strong>
+    <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
   slides:
   # video: 
   readings:
@@ -64,7 +64,7 @@
 - date: 09/13
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: Gibbs & Hamiltonian</strong>
+    <strong>Sampling: MCMC (MH, Gibbs & Hamiltonian)</strong>
   slides: 
   # video: 
   readings:
@@ -72,7 +72,7 @@
 - date: 09/18
   lecturer: Bo Dai
   title: >
-    <strong>Probabilistic Graphical Models: DAG</strong>
+    <strong>Probabilistic Graphical Models: DAG & MRF/EBM</strong>
   slides: 
   # video: 
   readings:
@@ -80,10 +80,7 @@
 - date: 09/20
   lecturer: Bo Dai
   title: >
-    <strong>Probabilistic Graphical Models: MRF/EBM</strong>
-  slides: 
-  # video: 
-  readings:
+    Cancelled 
 
 - date: 09/25
   lecturer: Bo Dai
