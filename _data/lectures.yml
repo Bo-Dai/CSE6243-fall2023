@@ -102,7 +102,7 @@
 - date: 09/27
   lecturer: Bo Dai
   title: >
-    <strong>Autoregressive Model</strong>
+    <strong>EBM (CD, Score Matching)</strong>
   slides: 
   # video: 
   readings:
@@ -110,7 +110,7 @@
 - date: 10/02
   lecturer: Bo Dai
   title: >
-    <strong>VAE from dual view</strong>
+    <strong>Autoregressive Model</strong>
   slides: 
   # video: 
   readings:
@@ -118,7 +118,7 @@
 - date: 10/04
   lecturer: Bo Dai
   title: >
-    <strong>EBM (CD, Score Matching)</strong>
+    <strong>VAE from dual view</strong>
   slides: 
   # video: 
   readings:
