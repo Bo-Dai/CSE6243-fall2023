@@ -106,6 +106,8 @@
   slides: 
   # video: 
   readings:
+      - Song & Kingma, <a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models</a>
+
 
 - date: 10/02
   lecturer: Bo Dai
