@@ -236,9 +236,9 @@
   readings:
 
 - date: 11/22
-  lecturer: Bo Dai
+  lecturer: 
   title: >
-    <strong>Policy Gradient I</strong>
+    No Class (Student Recess)
   slides: 
   # video: 
   readings:
@@ -246,7 +246,7 @@
 - date: 11/27
   lecturer: Bo Dai
   title: >
-    <strong>Policy Gradient II</strong>
+    <strong>Policy Gradient</strong>
   slides: 
   # video: 
   readings:
