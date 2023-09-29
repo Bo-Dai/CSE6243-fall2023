@@ -132,17 +132,17 @@
     No Class (Fall Break)
 
 - date: 10/11
-  lecturer: Bo Dai
+  lecturer: Ruiqi Gao (Virtual) - Google DeepMind
   title: >
-    <strong>EBM to GAN</strong>
+    <strong>EBM and Diffusion</strong>
   slides: 
   # video: 
   readings:
 
 - date: 10/16
-  lecturer: Bo Dai
+  lecturer: Lingkai Kong (in-person)
   title: >
-    <strong>Diffusion Model</strong>
+    <strong>Decision-Focused Learning</strong>
   slides: 
   # video: 
   readings:
@@ -150,37 +150,37 @@
 - title: "Module III: Differentiable Programming"
 
 - date: 10/18
-  lecturer: Bo Dai
+  lecturer: Sherry Yang (Virtual) - Google DeepMind
   title: >
-    <strong>Differentiable Algorithm I: GAN to EBM with differentiable sampler</strong>
+    <strong>Foundation Models for Decision Making: Problems, Methods, and Applications</strong>
   slides: 
   # video: 
   readings:
-    - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>
   
 - date: 10/23
   lecturer: Bo Dai
   title: >
-    <strong>Differentiable Algorithm II: dynamic programming/GNN</strong>
+    <strong>Differentiable Algorithm I: learning to sample</strong>
+  slides: 
+  # video: 
+  readings:
+    - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>  
+
+- date: 10/25
+  lecturer: Bo Dai
+  title: >
+    <strong>Differentiable Algorithm II: differentiable optimizer/dynamic programming</strong>
   slides: 
   # video: 
   readings:
     - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
     - Dai et al, 2016, <a href="http://proceedings.mlr.press/v48/daib16.pdf" target="_blank">Discriminative Embeddings of Latent Variable Models for Structured Data</a>
-
-- date: 10/25
-  lecturer: Bo Dai
-  title: >
-    <strong>Differentiable Algorithm III: differentiable optimizer</strong>
-  slides: 
-  # video: 
-  readings:
     - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
 
 - date: 10/30
   lecturer: Bo Dai
   title: >
-    <strong>Differentiable Algorithm IV: top-K/sorting layer</strong>
+    <strong>Differentiable Algorithm III: top-K/sorting layer</strong>
   slides: 
   # video: 
   readings:
