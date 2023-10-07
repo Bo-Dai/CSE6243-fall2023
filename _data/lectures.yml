@@ -106,6 +106,7 @@
   title: >
     <strong>EBM (CD, Score Matching)</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec10.pdf"
   # video: 
   readings:
       - Song & Kingma, <a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models</a>
