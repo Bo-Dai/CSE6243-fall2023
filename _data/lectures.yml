@@ -141,7 +141,7 @@
   lecturer: Ruiqi Gao (Virtual) - Google DeepMind
   title: >
     <strong>Diffusion Process</strong>
-  slides: 
+  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/talk_gatech_ruiqi.pdf"
   # video: 
   readings:
      -  Ho,  Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
