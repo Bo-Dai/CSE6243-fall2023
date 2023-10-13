@@ -127,6 +127,9 @@
   slides: 
   # video: 
   readings:
+     - Kingma & Welling, <a href="https://arxiv.org/abs/1312.6114" target="_blank">Auto-Encoding Variational Bayes</a>
+     - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
+
 
 - date: 10/09
   lecturer: 
@@ -140,6 +143,8 @@
   slides: 
   # video: 
   readings:
+     -  Ho,  Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
+     -  Song, Sohl-Dickstein, Kingma, Kumar, Ermon, & Poole, <a href="https://arxiv.org/abs/2011.13456" target="_blank">Score-Based Generative Modeling through Stochastic Differential Equations</a>
 
 - date: 10/16
   lecturer: Lingkai Kong (in-person)
@@ -158,7 +163,8 @@
   slides: 
   # video: 
   readings:
-  
+       -  Yang, Nachum, Du, Wei, Abbeel, & Schuurmans. <a href="https://arxiv.org/abs/2303.04129" target="_blank">Foundation Models for Decision Making: Problems, Methods, and Opportunities</a>
+
 - date: 10/23
   lecturer: Bo Dai
   title: >
