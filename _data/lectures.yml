@@ -119,6 +119,7 @@
   slides: 
   # video: 
   readings:
+      - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
 
 - date: 10/04
   lecturer: Bo Dai
