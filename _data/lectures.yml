@@ -144,7 +144,7 @@
   title: >
     <strong>Diffusion Process</strong>
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/talk_gatech_ruiqi.pdf"
-  # video: 
+  video: "https://gatech.instructure.com/courses/377010/external_tools/17731"
   readings:
      -  Ho,  Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
      -  Song, Sohl-Dickstein, Kingma, Kumar, Ermon, & Poole, <a href="https://arxiv.org/abs/2011.13456" target="_blank">Score-Based Generative Modeling through Stochastic Differential Equations</a>

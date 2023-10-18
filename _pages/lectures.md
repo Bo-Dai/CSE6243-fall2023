@@ -48,7 +48,7 @@ title: Schedule (Tentative)
               |  
             {% endif %}
             {% if lecture.video %}
-            <a href="{{ lecture.video }}" target="_blank">video</a>
+            <a href="{{ lecture.video }}" target="_blank">recording (Canvas)</a>
             {% endif %}
         ]
         {% endif %}
