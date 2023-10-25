@@ -158,8 +158,6 @@
   # video: 
   readings:
 
-- title: "Module III: Differentiable Programming"
-
 - date: 10/18
   lecturer: Sherry Yang (Virtual) - Google DeepMind
   title: >
@@ -167,27 +165,30 @@
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
   video:  "https://gatech.instructure.com/courses/377010/external_tools/17731"
   readings:
-       -  Yang, Nachum, Du, Wei, Abbeel, & Schuurmans. <a href="https://arxiv.org/abs/2303.04129" target="_blank">Foundation Models for Decision Making ":" Problems, Methods, and Opportunities</a>
+       -  Yang et al. 2022. <a href="https://arxiv.org/abs/2303.04129" target="_blank">Foundation Models for Decision Making &#58 Problems, Methods, and Opportunities</a>
 
 - date: 10/23
   lecturer: Bo Dai
   title: >
-    <strong>Differentiable Algorithm I: learning to sample in EBM and GAN</strong>
+    <strong>Generative Adversarial Nets (GAN)</strong>
   slides: 
   # video: 
   readings:
+    - Goodfellow et al. 2014, <a href="https://arxiv.org/abs/1406.2661" target="_blank">Generative Adversarial Networks</a>
+    - Nowozin et al. 2016, <a href="https://arxiv.org/abs/1606.00709" target="_blank">f-GAN &#58 Training Generative Neural Samplers using Variational Divergence Minimization</a>
     - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>  
+
 
 - date: 10/25
   lecturer: Bo Dai
   title: >
-    <strong>Differentiable Algorithm II: differentiable optimizer/dynamic programming</strong>
+    <strong>Normalizing Flow Models </strong>
   slides: 
   # video: 
   readings:
-    - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
-    - Dai et al, 2016, <a href="http://proceedings.mlr.press/v48/daib16.pdf" target="_blank">Discriminative Embeddings of Latent Variable Models for Structured Data</a>
-    - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
+    - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>  
+
+- title: "Module III: Differentiable Programming"
 
 - date: 10/30
   lecturer: Bo Dai
