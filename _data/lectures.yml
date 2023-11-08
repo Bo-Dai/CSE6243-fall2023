@@ -226,6 +226,10 @@
   slides: 
   # video: 
   readings:
+   - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
+   - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
+   
+
 
 - date: 11/08
   lecturer: Bo Dai
@@ -234,6 +238,8 @@
   slides: 
   # video: 
   readings:
+   - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
+   - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
 
 - date: 11/13
   lecturer: Bo Dai
@@ -242,6 +248,8 @@
   slides: 
   # video: 
   readings:
+   - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
+   - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
 
 - date: 11/15
   lecturer: Bo Dai
