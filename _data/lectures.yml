@@ -199,6 +199,7 @@
   title: >
     <strong>Differentiable Algorithm I: differentiable optimizer/dynamic programming</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec18.pdf"
   # video: 
   readings:
     - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
@@ -210,6 +211,7 @@
   title: >
     <strong>Differentiable Algorithm II: top-K/sorting layer</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec19.pdf"
   # video: 
   readings:
    - Xie et al, <a href="https://proceedings.neurips.cc/paper/2020/file/ec24a54d62ce57ba93a531b460fa8d18-Paper.pdf" target="_blank">Differentiable Top-k with Optimal Transport</a> 
