@@ -246,7 +246,7 @@
 - date: 11/13
   lecturer: Bo Dai
   title: >
-    <strong>MDP: Linear Programming</strong>
+    <strong>TD-based Deep Reinforcement Learning</strong>
   slides: 
   # video: 
   readings:
@@ -256,7 +256,7 @@
 - date: 11/15
   lecturer: Bo Dai
   title: >
-    <strong>Offline Reinforcement Learning</strong>
+    <strong>Policy Gradient and Actor-Critic</strong>
   slides: 
   # video: 
   readings:
@@ -264,7 +264,7 @@
 - date: 11/20
   lecturer: Bo Dai
   title: >
-    <strong>Imitation Learning</strong>
+    <strong>Offline RL and Imitation Learning</strong>
   slides: 
   # video: 
   readings:
@@ -280,7 +280,7 @@
 - date: 11/27
   lecturer: Bo Dai
   title: >
-    <strong>Policy Gradient</strong>
+    <strong>Reinforcement Learning with Human Feedback</strong>
   slides: 
   # video: 
   readings:
