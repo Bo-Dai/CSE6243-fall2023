@@ -250,7 +250,7 @@
   slides: 
   # video: 
   readings:
-   - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
+   - Mnih et al, 2013. <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
    - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
 
 - date: 11/15
@@ -260,6 +260,9 @@
   slides: 
   # video: 
   readings:
+    - Sutton et al, 1999. <a href="https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf" target="_blank">Policy Gradient Methods for Reinforcement Learning with Function Approximation</a>
+    - Haarnoja et al, 2018. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+    
 
 - date: 11/20
   lecturer: Bo Dai
