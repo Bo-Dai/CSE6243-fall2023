@@ -226,6 +226,7 @@
   title: >
     <strong>MDP: Bellman Recursion</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec20.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
@@ -238,6 +239,7 @@
   title: >
     <strong>DP: Value and Policy Iteration</strong>
   slides: 
+  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec21.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
@@ -291,7 +293,7 @@
 - date: 11/29
   lecturer: 
   title: >
-    Project Presentations (extended session from 4:00 PM to 6:15 PM)
+    <strong>Project Presentations (online session: 4:00 - 6:15 PM)</strong>
   slides: 
   # video: 
   readings:
