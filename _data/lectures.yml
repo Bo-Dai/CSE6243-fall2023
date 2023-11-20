@@ -269,7 +269,7 @@
 - date: 11/20
   lecturer: Bo Dai
   title: >
-    <strong>Offline RL and Imitation Learning</strong>
+    <strong>Imitation Learning and RLHF</strong>
   slides: 
   # video: 
   readings:
@@ -285,7 +285,7 @@
 - date: 11/27
   lecturer: Bo Dai
   title: >
-    <strong>Reinforcement Learning with Human Feedback</strong>
+    <strong>Review</strong>
   slides: 
   # video: 
   readings:
