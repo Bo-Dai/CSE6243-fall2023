@@ -276,6 +276,9 @@
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture24.pdf"
   # video: 
   readings:
+    - Ross et al, 2011. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>
+    - Ouyang et al, 2022. <a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank">Training language models to follow instructions with human feedback</a>
+  
 
 - date: 11/22
   lecturer: 
