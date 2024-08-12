@@ -1,4 +1,4 @@
-- date: 08/21
+- date: 08/19
   lecturer: Bo Dai
   title: >
     <strong>Course Overview</strong>
@@ -8,47 +8,57 @@
 
 - title: "Module I: Background Knowledge"
 
-- date: 08/23
+- date: 08/21
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex preliminary</strong>
   slides:
   # video: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec2.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec2.pdf"
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 1
 
-- date: 08/28
+- date: 08/26
   lecturer: Bo Dai
   title: >
     <strong>Optimization: convex set and function</strong>
   slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture2.pdf"
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec3.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec3.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 2-3
 
-- date: 08/30
+- date: 08/28
   lecturer: Bo Dai
   title: >
     <strong>Optimization: gradient descent</strong>
   slides:
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec4.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec4.pdf"
   # video: 
   readings:
     - Boyd & Vandenberghe, <a href="https://web.stanford.edu/~boyd/cvxbook/" target="_blank">Convex Optimization</a>, Section 5
 
-- date: 09/04
+- date: 09/02
   lecturer: 
   title: >
     No Class (Labor Day)
 
-- date: 09/06
+- date: 09/04
   lecturer: Bo Dai
   title: >
     <strong>Sampling: basic sampling method</strong>
   slides:
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec5.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec5.pdf"
+  # video: 
+  readings:
+    - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
+
+- date: 09/09
+  lecturer: Bo Dai
+  title: >
+    <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
+  slides:
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec6.pdf"
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
@@ -56,125 +66,115 @@
 - date: 09/11
   lecturer: Bo Dai
   title: >
-    <strong>Sampling: Acceptance-Rejection & Importance Sampling</strong>
-  slides:
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec6.pdf"
-  # video: 
-  readings:
-    - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
-
-- date: 09/13
-  lecturer: Bo Dai
-  title: >
     <strong>Sampling: MCMC (MH, Gibbs & Hamiltonian)</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec7.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec7.pdf"
   # video: 
   readings:
     - Neal, <a href="https://www.mcmchandbook.net/HandbookChapter5.pdf" target="_blank">MCMC Using Hamiltonian Dynamics</a>
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 11
 
-- date: 09/18
+- date: 09/16
   lecturer: Bo Dai
   title: >
     <strong>Density Parametrization</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec8.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec8.pdf"
   # video: 
   readings:
     - Bishop, <a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">Pattern Recognition and Machine Learning</a>, Section 8
     - Wainwright & Jordan, <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf" target="_blank">Graphical Models, Exponential Families, and Variational Inference</a>.
 
-- date: 09/20
+- date: 09/18
   lecturer: 
   title: >
     No Class 
     
-- date: 09/25
+- date: 09/23
   lecturer: Bo Dai
   title: >
     <strong>Neural Network Revisit</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec9.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec9.pdf"
   # video: 
   readings:
 
 - title: "Module II: Deep Generative Models"
 
-- date: 09/27
+- date: 09/25
   lecturer: Bo Dai
   title: >
     <strong>EBM (CD, Score Matching)</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec10.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec10.pdf"
   # video: 
   readings:
       - Song & Kingma, <a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models</a>
 
 
-- date: 10/02
+- date: 09/30
   lecturer: Bo Dai
   title: >
     <strong>Autoregressive Model</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec11.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec11.pdf"
   # video: 
   readings:
       - Larochelle & Murray, <a href="http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf" target="_blank">The Neural Autoregressive Distribution Estimator</a>
 
-- date: 10/04
+- date: 10/02
   lecturer: Bo Dai
   title: >
     <strong>VAE and Diffusion</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec12.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec12.pdf"
   # video: 
   readings:
      - Kingma & Welling, <a href="https://arxiv.org/abs/1312.6114" target="_blank">Auto-Encoding Variational Bayes</a>
      - Rezende, Mohamed, & Wierstra, <a href="https://arxiv.org/abs/1401.4082" target="_blank">Stochastic Backpropagation and Approximate Inference in Deep Generative Models</a>
 
 
-- date: 10/09
+- date: 10/07
   lecturer: 
   title: >
     No Class (Fall Break)
 
-- date: 10/11
+- date: 10/09
   lecturer: Ruiqi Gao (Virtual) - Google DeepMind
   title: >
     <strong>Diffusion Process</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/talk_gatech_ruiqi.pdf"
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec13.pdf"
-  video: "https://gatech.instructure.com/courses/377010/external_tools/17731"
+#  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/talk_gatech_ruiqi.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec13.pdf"
+#  video: "https://gatech.instructure.com/courses/377010/external_tools/17731"
   readings:
      -  Ho,  Jain, & Abbeel, <a href="https://arxiv.org/abs/2006.11239" target="_blank">Denoising Diffusion Probabilistic Models</a>
      -  Song, Sohl-Dickstein, Kingma, Kumar, Ermon, & Poole, <a href="https://arxiv.org/abs/2011.13456" target="_blank">Score-Based Generative Modeling through Stochastic Differential Equations</a>
 
-- date: 10/16
-  lecturer: Lingkai Kong (in-person)
-  title: >
-    <strong>Decision-Focused Learning</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Lingkai.pdf"
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec14.pdf"
-  # video: 
-  readings:
+#- date: 10/14
+#  lecturer: Lingkai Kong (in-person)
+#  title: >
+#    <strong>Decision-Focused Learning</strong>
+#  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Lingkai.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec14.pdf"
+#  # video:
+#  readings:
 
-- date: 10/18
+- date: 10/16
   lecturer: Sherry Yang (Virtual) - Google DeepMind
   title: >
     <strong>Foundation Models for Decision Making: Problems, Methods, and Applications</strong>
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec15.pdf"
-  video:  "https://gatech.instructure.com/courses/377010/external_tools/17731"
+#  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/Talk_Sherry.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec15.pdf"
+#  video:  "https://gatech.instructure.com/courses/377010/external_tools/17731"
   readings:
        -  Yang et al. 2022. <a href="https://arxiv.org/abs/2303.04129" target="_blank">Foundation Models for Decision Making &#58 Problems, Methods, and Opportunities</a>
 
-- date: 10/23
+- date: 10/21
   lecturer: Bo Dai
   title: >
     <strong>Generative Adversarial Nets (GAN)</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec16.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec16.pdf"
   # video: 
   readings:
     - Goodfellow et al. 2014, <a href="https://arxiv.org/abs/1406.2661" target="_blank">Generative Adversarial Networks</a>
@@ -182,36 +182,36 @@
     - Dai et al. 2019, <a href="https://proceedings.neurips.cc/paper_files/paper/2019/file/767d01b4bac1a1e8824c9b9f7cc79a04-Paper.pdf" target="_blank">Exponential Family Estimation via Adversarial Dynamics Embedding</a>  
 
 
-- date: 10/25
+- date: 10/23
   lecturer: Bo Dai
   title: >
     <strong>Normalizing Flow Models </strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec17.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec17.pdf"
   # video: 
   readings:
     - Kobyzev et al. 2019, <a href="https://arxiv.org/abs/1908.09257" target="_blank">Normalizing Flows &#58 An Introduction and Review of Current Methods</a>  
 
 - title: "Module III: Differentiable Programming"
 
-- date: 10/30
+- date: 10/28
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm I: differentiable optimizer/dynamic programming</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec18.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec18.pdf"
   # video: 
   readings:
     - Tamar et al, 2016, <a href="https://arxiv.org/pdf/1602.02867.pdf" target="_blank"> Value Iteration Networks</a>
     - Dai et al, 2016, <a href="http://proceedings.mlr.press/v48/daib16.pdf" target="_blank">Discriminative Embeddings of Latent Variable Models for Structured Data</a>
     - Amos, <a href="https://arxiv.org/pdf/2202.00665.pdf" target="_blank">Tutorial on amortized optimization</a>
 
-- date: 11/01
+- date: 10/39
   lecturer: Bo Dai
   title: >
     <strong>Differentiable Algorithm II: top-K/sorting layer</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec19.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec19.pdf"
   # video: 
   readings:
    - Xie et al, <a href="https://proceedings.neurips.cc/paper/2020/file/ec24a54d62ce57ba93a531b460fa8d18-Paper.pdf" target="_blank">Differentiable Top-k with Optimal Transport</a> 
@@ -221,12 +221,12 @@
 
 - title: "Module IV: Reinforcement Learning"
 
-- date: 11/06
+- date: 11/04
   lecturer: Bo Dai
   title: >
     <strong>MDP: Bellman Recursion</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec20.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec20.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
@@ -234,53 +234,53 @@
    
 
 
-- date: 11/08
+- date: 11/06
   lecturer: Bo Dai
   title: >
     <strong>DP: Value and Policy Iteration</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec21.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec21.pdf"
   # video: 
   readings:
    - Puterman and Chan, 2023. <a href="https://github.com/martyput/MDP_book" target="_blank">Introduction to Markov Decision Processes</a>
    - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
 
-- date: 11/13
+- date: 11/11
   lecturer: Bo Dai
   title: >
     <strong>Learning with MDPs</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec22.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec22.pdf"
   # video: 
   readings:
    - Mnih et al, 2013. <a href="https://arxiv.org/abs/1312.5602" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
    - Mohri et al, 2018. <a href="https://cs.nyu.edu/~mohri/mlbook/" target="_blank">Foundations of Machine Learning</a>
 
-- date: 11/15
+- date: 11/13
   lecturer: Bo Dai
   title: >
     <strong>Policy Gradient and Actor-Critic</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec23.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec23.pdf"
   # video: 
   readings:
     - Sutton et al, 1999. <a href="https://proceedings.neurips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf" target="_blank">Policy Gradient Methods for Reinforcement Learning with Function Approximation</a>
     - Haarnoja et al, 2018. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic -- Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
     
 
-- date: 11/20
+- date: 11/18
   lecturer: Bo Dai
   title: >
     <strong>Imitation Learning and RLHF</strong>
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec24.pdf"
-  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture24.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec24.pdf"
+#  slides: "https://bo-dai.github.io/CSE6243-fall2023/slides/cse6243-lecture24.pdf"
   # video: 
   readings:
     - Ross et al, 2011. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>
     - Ouyang et al, 2022. <a href="https://arxiv.org/pdf/2203.02155.pdf" target="_blank">Training language models to follow instructions with human feedback</a>
   
 
-- date: 11/22
+- date: 11/20
   lecturer: 
   title: >
     No Class (Student Recess)
@@ -288,38 +288,46 @@
   # video: 
   readings:
 
-- date: 11/27
+- date: 11/25
   lecturer: Bo Dai
   title: >
     <strong>Review</strong>
   slides: 
-  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec25.pdf"
+#  notes: "https://bo-dai.github.io/CSE6243-fall2023/scribing/Notes_lec25.pdf"
 
   # video: 
   readings:
 
-- date: 11/29
-  lecturer: 
+#- date: 11/27
+#  lecturer:
+#  title: >
+#    <strong>Project Presentations (online session: 4:00 - 6:15 PM)</strong>
+#  slides:
+#  # video:
+#  readings:
+
+- date: 12/02
+  lecturer:
   title: >
     <strong>Project Presentations (online session: 4:00 - 6:15 PM)</strong>
-  slides: 
-  # video: 
+  slides:
+  # video:
   readings:
 
-# - date: 12/04
-#   lecturer: 
-#   title: >
-#     Project Presentations
-#   slides: 
-#   # video: 
-#   readings:
+#- date: 12/04
+#  lecturer:
+#  title: >
+#    Project Report Due
+#  slides:
+#  # video:
+#  readings:
 
-- date: 12/11
-  lecturer: 
+- date: 12/09
+  lecturer:
   title: >
     Project Report Due
-  slides: 
-  # video: 
+  slides:
+  # video:
   readings:
 
 

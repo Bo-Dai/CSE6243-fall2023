@@ -2,11 +2,11 @@
 layout: about
 permalink: /
 title: Advanced Topics in <b>Machine Learning</b>
-description: CSE 6243 • Fall 2023 • Georgia Institute of Technology
+description: CSE 6243 • Fall 2024 • Georgia Institute of Technology
 logo: gatech-logo.png
 news: true
 ---
-Welcome to the Fall 2023 offering of CSE 6243!
+Welcome to the Fall 2024 offering of CSE 6243!
 
 **Prerequisite:** Graduate level Machine Learning, Probability and Statistics, Numerical Linear Algebra
 
@@ -37,7 +37,7 @@ These topics will be covered in **Four Modules**:
 ***
 
 **Time:** Monday/Wednesday 5:00-06:15 pm\
-**Location:** [Scheller College of Business 203](https://goo.gl/maps/CsJAdL4adqsRFmLX6){:target="\_blank"}\
+**Location:** Molecular Sciences and Engr 1222	(https://bme.gatech.edu/bme/molecular-science-engineering-building){:target="\_blank"}\
 **Discussion & HW submission:** [Canvas](https://gatech.instructure.com/courses/377010){:target="\_blank"} and [Ed Discussion](https://edstem.org/us/courses/43567){:target="\_blank"}\
 **Contact:** Please ask all course-related questions on [Ed Discussion](https://edstem.org/us/courses/43567){:target="\_blank"}, where you will also find announcements. For external enquiries, personal matters, or in emergencies, you can email us at *bodai at cc.gatech.edu* and *haotian.sun at gatech.edu*.
 

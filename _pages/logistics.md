@@ -46,7 +46,7 @@ There are several ways of earning participation credit:
 -->
 - **In-Class quiz:** In several random classes, we will ask the audiences to complete some quiz. Completing all of them is worth 10%.
 - **Completing mid-semester evaluation:** Around the middle of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing it is worth 4%.
-- **Machine Learning seminar:** There will be several ML invited talks in the semester, which will be anounced in Canvas. Attending three of them worth 6%. (<span style="color:red">The ML seminar is canceled. This portion of grade will be given by default.</span>
+- **Machine Learning seminar:** There will be several ML invited talks in the semester, which will be anounced in Canvas. Attending three of them worth 6%. 
 )
 
 
